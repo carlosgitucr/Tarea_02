@@ -1,6 +1,6 @@
 # Método Runge-Kutta de orden 4 (RK4) para Sistemas Dinámicos.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Para documentación visitar [github.com](https://github.com/carlosgitucr/Tarea_02).
 
 ## Sistemas dinámicos.
 Los sistemas dinámicos son modelos de suma importancia en las ciencias. En general, un modelo dinámico intenta resolver la trayectoria temporal de alguna cantidad física como función de algún generador dinámico; este último usualmente representado de forma funcional.
